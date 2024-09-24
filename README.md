@@ -8,4 +8,4 @@ User can see the balance he have in the account.
 
 
 Run the project : npm start
-  || View deployment :https://expensify13.herokuapp.com/
+  || View deployment :https://main--expensify-app-tracker.netlify.app/
