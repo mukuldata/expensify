@@ -20,6 +20,10 @@ export const AddTransaction = () => {
       amount: +amount
     }
 
+    setText("");
+    setAmount("");
+    
+
     addTransaction(newTransaction);
   }
 
